@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "console-table-printer": "^2.12.1",
+    "dotenv": "^16.4.5",
+    "inquirer": "^8.2.4",
+    "pg": "^8.13.1"
+  },
+  "name": "module-12-challenge",
+  "version": "1.0.0",
+  "description": "SQL Employee Tracker",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
